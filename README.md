@@ -1,16 +1,20 @@
-### Hi there 👋
+<h1 align="center">
+Sobre mim
+</h1>
 
-<!--
-**eduardofantim/eduardofantim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Olá, meu nome é Eduardo Fantim, tenho 16 anos e sou nascido em São Jose do Rio Preto.
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**💻 • Technologies**
+
+![HTML5](https://img.shields.io/badge/-HTML5-000000?style=for-the-badge&logo=HTML5)
+![CSS3](https://img.shields.io/badge/-CSS3-000000?style=for-the-badge&logo=CSS3&logoColor=3799d6)
+![PHP](https://img.shields.io/badge/-PHP-000000?style=for-the-badge&logo=php)
+![JAVASCRIPT](https://img.shields.io/badge/-javascript-000000?style=for-the-badge&logo=javascript)
+
+**👀 • Interests**
+
+![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=for-the-badge&logo=typescript)
+![Rust](https://img.shields.io/badge/-Rust-000000?style=for-the-badge&logo=rust&logoColor=orange)
+![MySQL](https://img.shields.io/badge/-MySQL-000000?style=for-the-badge&logo=mysql)
