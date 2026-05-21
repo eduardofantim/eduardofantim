@@ -15,7 +15,8 @@
 - Start working as a Backend Developer
 
 ## Projects
-🔹 User Management API (in progress)
+🔹 User Management API (Done)
+🔹 Finance Tracker API (in progress)
 
 ## Contact
 📧 edugbf5@gmail.com
